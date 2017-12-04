@@ -9,13 +9,13 @@
 
 5. Java Runtime Environment contains JVM, class libraries, and other supporting files. It does not contain any development tools such as compiler, debugger, but JDK contains compilers and debuggers.
 ( Reference - https://stackoverflow.com/questions/11547458/what-is-the-difference-between-jvm-jdk-jre-openjdk,
-References - https://www.edureka.co/blog/what-is-java/?utm_source=blog&utm_medium=left-menu&utm_campaign=java-tutorial
+References - https://www.edureka.co/blog/what-is-java/?utm_source=blog&utm_medium=left-menu&utm_campaign=java-tutorial)
 
 6. Features of Java : 
 	a. Simple
-           b. Object Oriented
+        b. Object Oriented
 	c. Secured
-            d. Portable 
+        d. Portable 
             
 
 
