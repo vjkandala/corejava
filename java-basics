@@ -3,13 +3,19 @@
 
 2. .java - > .class (compile) / ByteCode -> JVM to run this byte code
 
-3. JVM is virtual machine which run intepretes bytecode 
+3. JVM is virtual machine which run bytecode and interprets/converts to machine specific code. 
 
 4. The JDK is a superset of the JRE, and contains everything that is in the JRE, plus tools such as the compilers and debuggers necessary for developing applets and applications.
 
 5. Java Runtime Environment contains JVM, class libraries, and other supporting files. It does not contain any development tools such as compiler, debugger, but JDK contains compilers and debuggers.
 ( Reference - https://stackoverflow.com/questions/11547458/what-is-the-difference-between-jvm-jdk-jre-openjdk,
-References - https://www.edureka.co/blog/what-is-java/?utm_source=blog&utm_medium=left-menu&utm_campaign=java-tutorial)
+References - https://www.edureka.co/blog/what-is-java/?utm_source=blog&utm_medium=left-menu&utm_campaign=java-tutorial,
+http://www.javamadesoeasy.com/2015/06/jvm-java-virtual-machine.html#a,
+https://www.geeksforgeeks.org/jvm-works-jvm-architecture/
+http://javarevisited.blogspot.in/2012/12/how-classloader-works-in-java.html
+)
+
+
 
 6. Features of Java : 
 	a. Simple
